@@ -39,9 +39,10 @@
 
 ## 🚀 Featured Projects
 
-- 🎬 Movies App  
-- ✅ Todo List App  
-- 🌍 Travel Agency Website  
+-  Movies App  
+- Todo List App  
+- Travel Agency Website
+- Quiz Application
 
 More projects coming soon...
 
