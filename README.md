@@ -42,7 +42,8 @@
 -  Movies App  
 - Todo List App  
 - Travel Agency Website
-- Quiz Application
+- Quiz App
+- User App
 
 More projects coming soon...
 
